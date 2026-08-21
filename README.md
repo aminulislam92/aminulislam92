@@ -22,10 +22,18 @@ Mid-level MERN Stack Developer with 1+ years of experience building, maintaining
 📫 How to reach me: GitHub / LinkedIn 
 ⚡ Fun fact: I enjoy turning ideas into production-ready applications. 
 
+## 🤝 Connect With Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aminulislam92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aminulislam-fullstackdev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aminulislam.developer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aminulsohag10292/)  
+<div style="padding:0 5" align="left">
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<a href="https://www.linkedin.com/in/aminulislam-fullstackdev/"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" alt="LinkedIn" /> </a>
+&nbsp;
+<a href="https://www.facebook.com/aminulislam.developer"> <img src="https://cdn.simpleicons.org/facebook" height="40" alt="Facebook" /> </a>
+&nbsp;
+<a href="https://www.instagram.com/aminulsohag10292/"> <img src="https://cdn.simpleicons.org/instagram" height="40" alt="Instagram" /> </a>
+</div>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aminulislam92)  
+## 📧 For Business Inquiries
+✅ ► <a href="mailto:aminulsohag10292@gmail.com"> aminulsohag10292@gmail.com</a>
+ 
 
