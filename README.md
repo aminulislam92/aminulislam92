@@ -10,8 +10,6 @@ Mid-level MERN Stack Developer with 1+ years of experience building, maintaining
 ## 👨‍💻 Skills & Experience: 
 ✅ Node.js • Express.js • MongoDB • Mongoose • PostgreSQL • Prisma <br>
 ✅ NEXT JS • React • TypeScript • JavaScript <br>
-✅ WordPress <br>
-✅ PHP <br>
 ✅ HTML • CSS3 • Bootstrap • Tailwind <br>
 ✅ Git • GitHub • Docker • CI/CD <br>
 ✅ Figma • Photoshop • Illustrator <br>
