@@ -12,10 +12,14 @@ I'm passionate about writing clean, maintainable, and scalable code, building pr
 
 I also enjoy working with Git, GitHub, Postman, Docker, CI/CD, and cloud deployment, and I'm comfortable working in collaborative development environments and contributing to code reviews and technical decisions.
 
-Tech Stack:
-Next.js • React • TypeScript • JavaScript • Node.js • Express.js • MongoDB • Mongoose • Redux Toolkit • RTK Query • REST API • JWT • Git • GitHub • Docker • CI/CD
-
-Skills: EXPRESS JS / NODE JS / NEXT JS / REACT /  TS / JS / HTML / CSS
+##👨‍💻 Skills & Experience: 
+✅ Node.js • Express.js • MongoDB • Mongoose • PostgreSQL • Prisma
+✅ NEXT JS • React • TypeScript • JavaScript
+✅ WordPress
+✅ PHP
+✅ HTML • CSS3 • Bootstrap • Tailwind
+✅ Git • GitHub • Docker • CI/CD
+✅ Figma • Photoshop • Illustrator
 
 - 🔭 I’m currently working on Inventory Management System. 
 - 🌱 I’m currently learning Advanced Node.js, Express.js & Backend Architecture 
@@ -23,7 +27,6 @@ Skills: EXPRESS JS / NODE JS / NEXT JS / REACT /  TS / JS / HTML / CSS
 - 🤔 I’m looking for help with System Design & Scalable Backend Architecture 
 - 💬 Ask me about MERN Stack, REST APIs & Web Development 
 - 📫 How to reach me: GitHub / LinkedIn 
-- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I enjoy turning ideas into production-ready applications. 
 
 
